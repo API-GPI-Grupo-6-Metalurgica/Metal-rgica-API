@@ -10,41 +10,43 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Backlog do produto](#Product-Backlog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
-
-
+* 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
 
 # Equipe
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Anderson Santos        |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
-| Scrum Master  | José Sérgio |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
-| Team Member   | Luiz Carlos             |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
-|  Team Member  | Sebastião Leandro                 |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
-|  Team Member  | Aluno 5                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
-|  Team Member  | Aluno 6       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
+| Função| Nome | LinkedIn & GitHub |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Product Owner |   Anderson Santos        |     [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/) |
+
+| Scrum Master  | José Sérgio |      [![Linkedin Badge](https://www.linkedin.com/in/jos%C3%A9-s%C3%A9rgio-dos-santos-a841ba36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/) [![GitHub Badge](https://github.com/JoseSergio414)](https://github.com/) |
+
+| Team Member   | Luiz Carlos             |         [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/) |
+
+|  Team Member  | Sebastião Leandro                 |         [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/) |
+
+|  Team Member  | Aluno 5                 |   [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/)   |
+
 
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+* 
+* 
+* 
+* 
+* 
 
 
 ## Tecnologias Utilizadas
 
-* Jira Software
-* Power BI
 * Microsoft Excel
-* Slack
-* Python (Colab)
-* Mysql
+* Power BI
+* 
+* 
+* 
+* 
 
 
 
