@@ -20,7 +20,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | Função| Nome | LinkedIn & GitHub |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Anderson Santos        |     [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/) |
 
-| Scrum Master  | José Sérgio |      [![Linkedin Badge](https://www.linkedin.com/in/jos%C3%A9-s%C3%A9rgio-dos-santos-a841ba36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/) [![GitHub Badge](https://github.com/JoseSergio414)](https://github.com/) |
+| Scrum Master  | José Sérgio |      [![Linkedin Badge](https://www.linkedin.com/in/jos%C3%A9-s%C3%A9rgio-dos-santos-a841ba36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)][![GitHub Badge](https://github.com/JoseSergio414) |
 
 | Team Member   | Luiz Carlos             |         [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/) |
 
