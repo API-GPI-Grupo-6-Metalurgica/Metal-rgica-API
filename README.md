@@ -22,9 +22,9 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 | Scrum Master  | José Sérgio |      [![Linkedin Badge](https://www.linkedin.com/in/jos%C3%A9-s%C3%A9rgio-dos-santos-a841ba36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)][![GitHub Badge](https://github.com/JoseSergio414) |
 
-| Team Member   | Luiz Carlos             |         [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/) |
+| Team Member   | Luiz Carlos             |         [![Linkedin Badge](https://www.linkedin.com/in/luiscarlosjacare%C3%AD?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)][![GitHub Badge]()](https://github.com/) |
 
-|  Team Member  | Sebastião Leandro                 |         [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/) |
+|  Team Member  | Sebastião Leandro                 |         [![Linkedin Badge](https://www.linkedin.com/in/leandro-leandro-78a273387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)] [![GitHub Badge](https://github.com/sebastiao8286) |
 
 |  Team Member  | Aluno 5                 |   [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/)   |
 
@@ -43,8 +43,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 * Microsoft Excel
 * Power BI
-* 
-* 
+* Python
+* Word
 * 
 * 
 
@@ -69,8 +69,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | 06/10/2025 | em desenvolvimento  | [MVP](MVP/sp1.md)  |
+| 02                | 24/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 14/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
 
