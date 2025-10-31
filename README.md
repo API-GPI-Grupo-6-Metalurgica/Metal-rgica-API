@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API)
+-# Aprendizado por Projeto Integrado (API)
 ## Cadeia produtiva Metalúrgica (usinagem)
 Mapa mental
 Fluxograma
@@ -58,7 +58,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Product Backlog
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
-|------|------------|------------|            |        |
+|------|------------|-----------------------------------------------------------------------------------------------------------------------------|            |        |
 | 1    | Alta       | Como Gestor gostaria de uma análise da demanda por produtos da cadeia produtiva metalúrgica ligada ao setor de usinagem.                                                                                                              | 5 | 1 |
 | 2    | Alta       | Como analista, vou analisar os dados do site comex stat para montar um Dashboard.                                                                                                                                                     | 8 | 1 |
 | 3    | Alta       | Como Gestor, quero receber o Dashboard da análise com um relatório.                                                                                                                                                                   | 5 | 2 |
