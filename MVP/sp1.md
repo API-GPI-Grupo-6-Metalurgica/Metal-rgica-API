@@ -1,6 +1,7 @@
 # 📌 MVP - [Cadeia Produtiva Metalúrgica (Usinagem]
 
 ## 🎯 Objetivo do MVP
+
 > Analisar dados do site Comex stat filtrando pelos códigos sh4 que se encaixam na cadeia produtiva metalúrgica (usinagem):  
 - Com isso poderemos identificar as cidades que mais agregam valor no tipo da cadeia produtiva  
 - Apresentando dados claros e concretos.
@@ -17,19 +18,19 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Product Owner:** Product Owner foca no produto , ele é o principal responsável por maximizar o valor do produto resultante do trabalho da equipe de desenvolvimento. O PO é a "voz do cliente" e dos stakeholders (partes interessadas), representando seus interesses e garantindo que a equipe construa a coisa certa.  
-- **Scrum Master :**O Scrum Master é um dos três papéis fundamentais dentro da metodologia ágil Scrum (junto com o Product Owner e os Desenvolvedores), ele é um líder-servidor e facilitador da equipe. Sua principal missão é garantir que a equipe entenda e siga os valores  
+- **Product Owner:** Product Owner foca no produto , ele é o principal responsável por maximizar o valor do produto resultante do trabalho da equipe de desenvolvimento. O PO é a "voz do cliente" e dos stakeholders (partes interessadas), representando seus interesses e garantindo que a equipe construa a coisa certa.
+  
+- **Scrum Master:** O Scrum Master é um dos três papéis fundamentais dentro da metodologia ágil Scrum (junto com o Product Owner e os Desenvolvedores), ele é um líder-servidor e facilitador da equipe. Sua principal missão é garantir que a equipe entenda e siga os valores  
 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-
-| US1 | Como PO , quero mapa mental do projeto para definição das tarefas.         | Média      | 3 pontos   |
-| US1 | Como PO, quero um fuxograma para as das etapas do projeto.        | Alta       | 2   |
-| US1 | Como PO, quero um gráfico para as distribuições das tarfefas.        | Alta       | 2   |
-| US1 | Como PO, quero ferramanta de gestão para melhor entendimento do projeto.         | Alta       | 5 pontos   |
+| US1 | Como PO , quero mapa mental do projeto para definição das tarefas.| Média      | 4 |
+| US1 | Como PO, quero um fuxograma para as das etapas do projeto.| Alta       | 4 |
+| US1 | Como PO, quero um gráfico para as distribuições das tarfefas.| Alta       | 4 |
+| US1 | Como PO, quero ferramanta de gestão para melhor entendimento do projeto.| Alta       | 4  |
 
 
 
