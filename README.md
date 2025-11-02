@@ -1,14 +1,17 @@
-# Aprendizado por Projeto Integrado (API)
-# Cadeia produtiva Metalúrgica (usinagem)
-Mapa mental
-Fluxograma
-Backlog do produto
+# Aprendizado por Projeto Integrador (API) - Cadeia produtiva Metalúrgica (usinagem)
 
- 
+## Mapa mental
+<img width="1455" height="1004" alt="Captura de tela 2025-11-02 151756" src="https://github.com/user-attachments/assets/d58a9a09-c385-43dc-b3f5-5dc6dea2ee37" />
+
+## Fluxograma
+<img width="1455" height="1009" alt="Captura de tela 2025-11-02 151739" src="https://github.com/user-attachments/assets/44b73cae-ed17-4ec5-9355-adb9c217ac60" />
+
+## Backlog do produto
+<img width="1873" height="982" alt="Captura de tela 2025-11-02 151836" src="https://github.com/user-attachments/assets/31ce9969-5420-4024-9614-0b271604f2f7" />
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-## Índice
+# Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
@@ -23,13 +26,10 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # Equipe
 | Funçao | Nome | LinkedIn & GitHub |
 |-------- | ----- |:--------------------: |
-| Product Owner | Anderson Santos | [![Linkedin Badge](https://cdn-icons-png.flaticon.com/256/174/174857.png)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.icons8.com/?size=64&id=3tC9EQumUAuq&format=png)](https://github.com/) |
-| Scrum Master | José Sérgio | [![Linkedin Badge](https://cdn-icons-png.flaticon.com/256/174/174857.png)](https://www.linkedin.com/in/jos%C3%A9-s%C3%A9rgio-dos-santos-a841ba36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![GitHub Badge](https://img.icons8.com/?size=64&id=3tC9EQumUAuq&format=png)](https://github.com/JoseSergio414) |
-| Team Member | Luiz Carlos | [![Linkedin Badge](https://cdn-icons-png.flaticon.com/256/174/174857.png)](https://www.linkedin.com/in/luiscarlosjacare%C3%AD?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![GitHub Badge](https://img.icons8.com/?size=64&id=3tC9EQumUAuq&format=png)](https://github.com/) |
-|  Team Member | Sebastião Leandro | [![Linkedin Badge](https://cdn-icons-png.flaticon.com/256/174/174857.png)](https://www.linkedin.com/in/leandro-leandro-78a273387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.icons8.com/?size=64&id=3tC9EQumUAuq&format=png)](https://github.com/sebastiao8286)|
-
-
-
+| Product Owner | Anderson Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/) |
+| Scrum Master | José Sérgio | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-s%C3%A9rgio-dos-santos-a841ba36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoseSergio414) |
+| Team Member | Luiz Carlos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiscarlosjacare%C3%AD?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/) |
+|  Team Member | Sebastião Leandro | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-leandro-78a273387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/sebastiao8286)|
 
 # Objetivo do Projeto
 Este projeto tem como objetivo analisar e criar um Dashboard da Cadeia Produtiva Metalúrgica:
@@ -39,7 +39,7 @@ Este projeto tem como objetivo analisar e criar um Dashboard da Cadeia Produtiva
 * Top cinco produtos da cadeia produtiva mais importados e exportados
 * Top cinco maiores parceiros comerciais dessas cidades
 
-# Technologies used
+## Tecnologias Utilizadas
 
 * Microsoft Excel
 * Power BI
@@ -53,18 +53,27 @@ Este projeto tem como objetivo analisar e criar um Dashboard da Cadeia Produtiva
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|----------- | ---------- | ------ |
-| 1    | Alta | Como Gestor gostaria de uma análise da demanda por produtos da cadeia produtiva metalúrgica ligada ao setor de usinagem. | 12 | 3 |
-| 2    | Alta | Como analista, vou analisar os dados do site comex stat para montar um Dashboard. | 12 | 13|
-| 3    | Alta | Como Gestor, quero receber o Dashboard da análise com um relatório. | 12 | 3 |
-| 4    | Média | Como analista, preciso saber quais são os códigos sh4 referente a cadeia produtiva e os filtros que vão ser utilizados no Dashboard. | 8 | 2 |
-| 5    | Alta | Como Gestor, quero que filtre anos 2021 á 2025, Estado: São Paulo, cidades: São José dos Campos, Caçapava, Jacareí. | 12 | 3 |
-| 6    | Alta | Como analista, vou pesquisar os códigos referentes a cadeia produtiva metalúrgica (usinagem). | 8 | 2 |
-| 7    | Média | Como analista, vou acessar o site Comex stat: Acessando dados abertos, da base 2 que é filtrada pelos códigos sh4 e assim fazer o download dos arquivos de impotação e exportação e tabelas auxiliares que estão em arquivos .csv. | 4 | 1 |
-| 8    | Média | Como analista vou utilizar o Google e o Gemini para pesquisar quais são os codigos referentes a cadeia produtiva Metalúrgica no setor de usinagem. | 8 | 2 |
-| 9    | Alta | Como analista, vou utilizar o Google colab para tarbalhar com a ferramenta Python utilizando a biblioteca pandas para tratar e refinar os dados do comexstat transformando todos os arquivos em um único arquivo. | 8 | 2 |
-| 10   | Alta | Como analista, vou utilizar o POWER BI para criar um Dashboard que indique quais os valores exportados e improtados nas cidades escolhidas e utilizarei os códigos SH4 para filtrar a cadeia produtiva. | 8 | 2 |
-| 11   | Alta | Como analista, vou produzir um relatório sobre a pesquisa dos dados. | 12 | 3 |
-  
+|1|Alta|	Como gestor e tomador de decisões de políticas públicas solicito um levantamento, dentro da Cadeia Industrial Metalúrgica, uma análise do Comércio Exterior, especificamente do mercado de Usinagem nas Regiões de Caçapava, Jacareí e São José dos Campos, no período de 2021 à 2025.|	8h	10/09/2025|	1|
+|2	|Média	|Como gestor , na qualidade de tomador de serviço, quero os principais itens dessa cadeia específica.	|8h	10/09/2025|	1|
+|3|	Média	|Como Cliente, quero analisar se há possibilidade de apoio a investimento em Indústrias que forneçam: máquinas, peças e ferramental para esse tipo de mercado além de cursos de capacitação de mão de obra.	|8h	10/09/2025|	1
+|4|	Média|	Um gráfico para verificar os países parceiros comerciais, de quem Importamos e Exportamos.	|8h	10/09/2025|	1|
+|5|	Alta	Como P.O. estou levantando recursos humanos para tal projeto.	|2h	18/09/2025|	1|
+|6|	Alta	Como prestador, conforme oferecemos nessa segunda Sprint, faremos análises dos dados como referência o site oficial de "COMEX STAT" do Governo Federal.	|2h	26/09/2025|	1|
+|7|	Alta	Como P.O. solicito a minha equipe uma distribuição de tarefas a realizar.	|2h	17/09/2025 |	1|
+|8|	Média	Scrum Master define o grupo de tarefa e monitora o desempenho com ferramentas adequadas.	|2h	03/10/2025	|1|
+|9|	Alta	Apresentação da 1ª Sprint.	|2h	10/10/2025|	1|
+|10|Média	Dificuldades da equipe no levantamento de dados com a tabela NCM para demonstração com a ferramenta POWER BI	|2h	12/12/2025|	2|
+|11|Média|	Como tomador do serviço, faço modelagem dos dados da tabela SH4 pelo Python e Colab.	|2h	15/12/2025|	2|
+|12|	Alta|	Dificuldades da equipe no levantamento de dados com a tabela NCM para demonstração com a ferramenta POWER BI	|2h	24/02/2025|	2|
+|13|	Altal|	Como tomador, faço levantamento pela tabela SH4 o comércio exeterior dos municípios citados	|2h	28/10/2025|	2|
+|14|	Baixa|	Como cliente, solicito gráfico linear das exportações mensais de 2021 à 2025.	|2h	Não	|2|
+|15|	Baixa|	Como tomador de serviço, verifico que não foi essa solicitação inicial, foram solicitadas as Importações e Exportações Anuais e por dificuldades técnicas e prazo curto, não poderei mudar. Não foi esse o acordo inicial.	|2h	Não|	2|
+|16|	Alta|	Sprint com a Dashboard das Importações e Exportações com gráficos, período determinado dos três municípios e os principais países parceiros comerciais.	|2h	01/11/2025|	2|		
+|17|	Média|	Como cliente solicito Dashboard completa com os dados anuais de Importação e Exportação de 2021 à 2025.	|2h	Em andamento|	3|
+|18|	Média|	Como Cliente solicito o relatório com o desenvolvimento e as dificuldades ocorridas	|2h	Em andamento|	3|
+|19|	Média|	Como cliente solicito a validação no Git Hub.	|2h	Em andamento	|3|
+|20|	Média|	Como Cliente Solicito a apresentação do Trabalho definitivo e apresentação a Feira de Soluções.	|2h	Em andamento	|3|
+
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
