@@ -9,6 +9,12 @@
 ## Backlog do produto
 <img width="1873" height="982" alt="Captura de tela 2025-11-02 151836" src="https://github.com/user-attachments/assets/31ce9969-5420-4024-9614-0b271604f2f7" />
 
+## Ferramenta de gestão " GANTT "
+<img width="1842" height="665" alt="Captura de tela 2025-11-02 201922" src="https://github.com/user-attachments/assets/3a941170-cfb4-41aa-a131-d2a726185f88" />
+
+
+
+
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
