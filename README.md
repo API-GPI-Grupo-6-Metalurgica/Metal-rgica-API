@@ -21,13 +21,13 @@ Uso de estratégias para entender o problema, conceber uma solução viável ao 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
 
 # Equipe
-| Função| Nome | LinkedIn & GitHub |
-| ------- | ----- |:--------------------: |
+| Funçao | Nome | LinkedIn & GitHub |
+|-------- | ----- |:--------------------: |
 | Product Owner | Anderson Santos | [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/) |
-| Scrum Master | José Sérgio | [![Linkedin Badge](https://www.linkedin.com/in/jos%C3%A9-s%C3%A9rgio-dos-santos-a841ba36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)][![GitHub Badge](https://github.com/JoseSergio414) |
-| Team Member | Luiz Carlos | [![Linkedin Badge](https://www.linkedin.com/in/luiscarlosjacare%C3%AD?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)][![GitHub Badge]()](https://github.com/) |
-|  Team Member | Sebastião Leandro | [![Linkedin Badge](https://www.linkedin.com/in/leandro-leandro-78a273387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)] [![GitHub Badge](https://github.com/sebastiao8286) |
-| Team Member | Aluno 5 | [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/)   |
+| Scrum Master | José Sérgio | [![Linkedin Badge]()](https://www.linkedin.com/in/jos%C3%A9-s%C3%A9rgio-dos-santos-a841ba36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![GitHub Badge]()](https://github.com/JoseSergio414) |
+| Team Member | Luiz Carlos | [![Linkedin Badge]()](https://www.linkedin.com/in/luiscarlosjacare%C3%AD?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)[![GitHub Badge]()](https://github.com/) |
+|  Team Member | Sebastião Leandro | [![Linkedin Badge]()](https://www.linkedin.com/in/leandro-leandro-78a273387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge]()](https://github.com/sebastiao8286)|
+| Team Member | Aluno 5 | [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/) |
 
 
 
