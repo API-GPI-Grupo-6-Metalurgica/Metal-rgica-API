@@ -21,26 +21,23 @@ Uso de estratégias para entender o problema, conceber uma solução viável ao 
 Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
 
 # Equipe
-| Função| Nome | LinkedIn & GitHub |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Anderson Santos        |     [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/) |
-
-| Scrum Master  | José Sérgio |      [![Linkedin Badge](https://www.linkedin.com/in/jos%C3%A9-s%C3%A9rgio-dos-santos-a841ba36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)][![GitHub Badge](https://github.com/JoseSergio414) |
-
-| Team Member   | Luiz Carlos             |         [![Linkedin Badge](https://www.linkedin.com/in/luiscarlosjacare%C3%AD?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)][![GitHub Badge]()](https://github.com/) |
-
-|  Team Member  | Sebastião Leandro                 |         [![Linkedin Badge](https://www.linkedin.com/in/leandro-leandro-78a273387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)] [![GitHub Badge](https://github.com/sebastiao8286) |
-
-|  Team Member  | Aluno 5                 |   [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/)   |
+| Função| Nome | LinkedIn & GitHub |
+| ------- | ----- |:--------------------: |
+| Product Owner | Anderson Santos | [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/) |
+| Scrum Master | José Sérgio | [![Linkedin Badge](https://www.linkedin.com/in/jos%C3%A9-s%C3%A9rgio-dos-santos-a841ba36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)][![GitHub Badge](https://github.com/JoseSergio414) |
+| Team Member | Luiz Carlos | [![Linkedin Badge](https://www.linkedin.com/in/luiscarlosjacare%C3%AD?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)][![GitHub Badge]()](https://github.com/) |
+|  Team Member | Sebastião Leandro | [![Linkedin Badge](https://www.linkedin.com/in/leandro-leandro-78a273387?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)] [![GitHub Badge](https://github.com/sebastiao8286) |
+| Team Member | Aluno 5 | [![Linkedin Badge]()](https://www.linkedin.com/in/) [![GitHub Badge]()](https://github.com/)   |
 
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* 
-* 
-* 
-* 
-* 
+Este projeto tem como objetivo analisar e criar um Dashboard da Cadeia Produtiva Metalúrgica:
+* Analisar dados abertos do governo de Expoatação e imporatção da Cadeia produtiva Metalúrgica (USINAGEM)
+* Analisar as cidades de Caçapava, São José dos Campos e Jacareí
+* Indicar valores impportado e exportado do período dos anos de 2021,2022,2023,2024,2025
+* Top cinco produtos da cadeia produtiva mais importados e exportados
+* Top cinco maiores parceiros comerciais dessas cidades
 
 
 ## Tecnologias Utilizadas
@@ -58,18 +55,18 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 # Product Backlog
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
-|------|------------|-----------------------------------------------------------------------------------------------------------------------------|            |        |
-| 1    | Alta       | Como Gestor gostaria de uma análise da demanda por produtos da cadeia produtiva metalúrgica ligada ao setor de usinagem.                                                        | 5 | 1 |
-| 2    | Alta       | Como analista, vou analisar os dados do site comex stat para montar um Dashboard.                                                                                               | 8 | 1 |
-| 3    | Alta       | Como Gestor, quero receber o Dashboard da análise com um relatório.                                                                                                             | 5 | 2 |
-| 4    | Média      | Como analista, preciso saber quais são os códigos sh4 referente a cadeia produtiva e os filtros que vão ser utilizados no Dashboard.                                            | 5 | 1 |
-| 5    | Alta       | Como Gestor, quero que filtre anos 2021 á 2025, Estado: São Paulo, cidades: São José dos Campos, Caçapava, Jacareí,                                                             | 8 | 1 |
-| 6    | Alta       | Como analista, vou pesquisar os códigos referentes a cadeia produtiva metalúrgica (usinagem).                                                                                   | 5 | 2 |
-| 7    | Média      | Como analista, vou acessar o site Comex stat: Acessando dados abertos, da base 2 que é filtrada pelos códigos sh4 e assim fazer o download dos arquivos de impotação e exportação e tabelas auxiliares que estão em arquivos .csv.    | 5 | 2 |
-| 8    | Média      | Como analista vou utilizar o Google e o Gemini para pesquisar quais são os codigos referentes a cadeia produtiva Metalúrgica no setor de usinagem | 5 | 2 |
-| 9    | Alta       | Como analista, vou utilizar o Google colab para tarbalhar com a ferramenta Python utilizando a biblioteca pandas para tratar e refinar os dados do comexstat transformando todos os arquivos em um único arquivo | 5 | 2 |
-| 10   | Alta       | Como analista, vou utilizar o POWER BI para criar um Dashboard que indique quais os valores exportados e improtados nas cidades escolhidas e utilizarei os códigos SH4 para filtrar a cadeia produtiva | 5 | 2 |
-| 11   | Alta       | Como analista, vou produzir um relatório sobre a pesquisa dos dados | 2 | 3 |
+|------|------------|----------- | ---------- | ------ |
+| 1    | Alta | Como Gestor gostaria de uma análise da demanda por produtos da cadeia produtiva metalúrgica ligada ao setor de usinagem. | 12 | 3 |
+| 2    | Alta | Como analista, vou analisar os dados do site comex stat para montar um Dashboard. | 12 | 13|
+| 3    | Alta | Como Gestor, quero receber o Dashboard da análise com um relatório. | 12 | 3 |
+| 4    | Média | Como analista, preciso saber quais são os códigos sh4 referente a cadeia produtiva e os filtros que vão ser utilizados no Dashboard. | 8 | 2 |
+| 5    | Alta | Como Gestor, quero que filtre anos 2021 á 2025, Estado: São Paulo, cidades: São José dos Campos, Caçapava, Jacareí. | 12 | 3 |
+| 6    | Alta | Como analista, vou pesquisar os códigos referentes a cadeia produtiva metalúrgica (usinagem). | 8 | 2 |
+| 7    | Média | Como analista, vou acessar o site Comex stat: Acessando dados abertos, da base 2 que é filtrada pelos códigos sh4 e assim fazer o download dos arquivos de impotação e exportação e tabelas auxiliares que estão em arquivos .csv. | 4 | 1 |
+| 8    | Média | Como analista vou utilizar o Google e o Gemini para pesquisar quais são os codigos referentes a cadeia produtiva Metalúrgica no setor de usinagem. | 8 | 2 |
+| 9    | Alta | Como analista, vou utilizar o Google colab para tarbalhar com a ferramenta Python utilizando a biblioteca pandas para tratar e refinar os dados do comexstat transformando todos os arquivos em um único arquivo. | 8 | 2 |
+| 10   | Alta | Como analista, vou utilizar o POWER BI para criar um Dashboard que indique quais os valores exportados e improtados nas cidades escolhidas e utilizarei os códigos SH4 para filtrar a cadeia produtiva. | 8 | 2 |
+| 11   | Alta | Como analista, vou produzir um relatório sobre a pesquisa dos dados. | 12 | 3 |
 
 
 
