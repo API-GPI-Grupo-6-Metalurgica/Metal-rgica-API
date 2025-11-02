@@ -59,7 +59,7 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
+- Apresentar um Dashboard pronto e uma user story
 - Ajustes de usabilidade  
 - Expansão de funcionalidades para próximo incremento  
 
