@@ -1,5 +1,5 @@
--# Aprendizado por Projeto Integrado (API)
-## Cadeia produtiva Metalúrgica (usinagem)
+# Aprendizado por Projeto Integrado (API)
+# Cadeia produtiva Metalúrgica (usinagem)
 Mapa mental
 Fluxograma
 Backlog do produto
@@ -8,7 +8,7 @@ Backlog do produto
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-# Índice
+## Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
 * [Backlog do produto](#Product-Backlog)
@@ -39,8 +39,7 @@ Este projeto tem como objetivo analisar e criar um Dashboard da Cadeia Produtiva
 * Top cinco produtos da cadeia produtiva mais importados e exportados
 * Top cinco maiores parceiros comerciais dessas cidades
 
-
-## Tecnologias Utilizadas
+# Technologies used
 
 * Microsoft Excel
 * Power BI
@@ -49,8 +48,6 @@ Este projeto tem como objetivo analisar e criar um Dashboard da Cadeia Produtiva
 * Word
 * Ghithub
 * Gemini (para pesquisas)
-
-
 
 # Product Backlog
 
@@ -67,11 +64,6 @@ Este projeto tem como objetivo analisar e criar um Dashboard da Cadeia Produtiva
 | 9    | Alta | Como analista, vou utilizar o Google colab para tarbalhar com a ferramenta Python utilizando a biblioteca pandas para tratar e refinar os dados do comexstat transformando todos os arquivos em um único arquivo. | 8 | 2 |
 | 10   | Alta | Como analista, vou utilizar o POWER BI para criar um Dashboard que indique quais os valores exportados e improtados nas cidades escolhidas e utilizarei os códigos SH4 para filtrar a cadeia produtiva. | 8 | 2 |
 | 11   | Alta | Como analista, vou produzir um relatório sobre a pesquisa dos dados. | 12 | 3 |
-
-
-
-
-
   
 # Registro das Sprints
 
