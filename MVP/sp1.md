@@ -17,9 +17,9 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Product Owner:** Product Owner foca no produto , ele é o principal responsável por maximizar o valor do produto resultante do trabalho da equipe de desenvolvimento, o PO é a "voz do cliente" e dos stakeholders (partes interessadas), representando seus interesses e garantindo que a equipe construa a coisa certa.
+- **Aviador Cavali:** Ex secrtetário de desenvolvimento de São José dos Campos, de uma análise de dados de importação e exportação das cidades de São José dos Campos, Caçapava e Jacareí, os dados brutos do Comex Stat são confusos e ele não tem tempo para analisar. Nosso projeto resolve isso entregando o saldo da balança comercial (Imp x Exp) de forma simples e visual, permitindo que ele tome uma decisão em 5 minutos."
   
-- **Scrum Master:** O Scrum Master é um dos três papéis fundamentais dentro da metodologia ágil Scrum (junto com o Product Owner e os Desenvolvedores), ele é um líder-servidor e facilitador da equipe. Sua principal missão é garantir que a equipe entenda e siga os valores  
+- **Professor Marcus :** Representante do CADI localizidado no PIT em SJC, responsável por validar os sprints e ajustar o projeto conforme os interesses do cliente, póssivel abertura de futuras empresas do setor na região
 ---
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
@@ -69,4 +69,4 @@
 -<img width="1445" height="817" alt="Captura de tela 2025-11-02 221741" src="https://github.com/user-attachments/assets/ed23a40a-d5ce-4fc8-a247-81c6a527c4d8" />
 -<img width="1415" height="816" alt="Captura de tela 2025-11-02 221759" src="https://github.com/user-attachments/assets/3a9e8d65-3950-462e-940e-9477742a9c60" />
 -https://drive.google.com/open?id=1xmrA1FQHD_sVnGs5TDI1SR1zNOG8fqQh&usp=drive_copy
-- Vídeo (MVP)  
+- Vídeo (MVP): não foi realizado o Dashborad na primeira sprint
