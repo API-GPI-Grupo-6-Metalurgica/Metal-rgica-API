@@ -62,8 +62,8 @@
 ---
 
 ## 📂 Anexos / Evidências
--<img width="1468" height="817" alt="Captura de tela 2025-11-02 221635" src="https://github.com/user-attachments/assets/508400af-cf51-4f90-a99b-790d31f76bd3" 
-   
+
+-<img width="1468" height="817" alt="Captura de tela 2025-11-02 221635" src="https://github.com/user-attachments/assets/508400af-cf51-4f90-a99b-790d31f76bd3"/>
 -<img width="1437" height="809" alt="Captura de tela 2025-11-02 221648" src="https://github.com/user-attachments/assets/ef8b7d2a-209c-43eb-b69b-07ef3c03a999" />
 -<img width="1481" height="827" alt="Captura de tela 2025-11-02 221726" src="https://github.com/user-attachments/assets/06597d9e-9fdb-4b5e-9677-d405d5db4deb" />
 -<img width="1445" height="817" alt="Captura de tela 2025-11-02 221741" src="https://github.com/user-attachments/assets/ed23a40a-d5ce-4fc8-a247-81c6a527c4d8" />
