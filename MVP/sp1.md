@@ -11,15 +11,15 @@
 ## 📝 Descrição da Solução
 > Extruturação das ativiades que irão ser desenvolvidadas(MAPA METAL, FLUXOGRAMA, USER STORY, BACKLOG DO PRODUTO, FERRAMENTA GANTT)  
 - Aprendizazem das tecnologias a serem utilizadas no projeto  
-- Falta de conhecimento no Python e Power bi  
-- Utilizando a metotologia Scrum, analisar dados do site Comex stat filtrando pelos códigos sh4 que se encaixam na cadeia produtiva metalúrgica (usinagem) nas categorias de Exportação e importação dos anos de 2021 á 2025 sendo necessário produzir um Dashboard e um relatório
+- Falta de conhecimento no Python e Power BI  
+- Utilizando a metotologia Scrum, analisar dados do site Comex stat filtrando pelos códigos sh4 que se encaixam na cadeia produtiva metalúrgica (usinagem) nas categorias de Exportação e importação dos anos de 2021 á 2025 sendo necessário produzir um Dashboard interativo e um relatório técnico
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Aviador Cavali:** Ex secrtetário de desenvolvimento de São José dos Campos, de uma análise de dados de importação e exportação das cidades de São José dos Campos, Caçapava e Jacareí, os dados brutos do Comex Stat são confusos e ele não tem tempo para analisar. Nosso projeto resolve isso entregando o saldo da balança comercial (Imp x Exp) de forma simples e visual, permitindo que ele tome uma decisão em 5 minutos."
+- **Aviador Cavali:** Ex secrtetário de desenvolvimento de São José dos Campos, precisa de uma análise de dados de importação e exportação das cidades de São José dos Campos, Caçapava e Jacareí, os dados brutos do Comex Stat são confusos e ele não tem tempo para analisar. Nosso projeto resolve isso entregando o saldo da balança comercial (Imp x Exp) e de forma simples e visual, permitindo que ele tome uma decisão rápidadmente."
   
-- **Professor Marcus :** Representante do CADI localizidado no PIT em SJC, responsável por validar os sprints e ajustar o projeto conforme os interesses do cliente, póssivel abertura de futuras empresas do setor na região
+- **Professor Marcus :** Representante do CADI localizidado no PIT em SJC, É responsável por validar os sprints e ajustar o projeto conforme os interesses do cliente, com o nosso projeto será póssivel a implementação de futuras empresas do setor na regiãoem SJC, responsável por validar os sprints e ajustar o projeto conforme os interesses do cliente, póssivel abertura de futuras empresas do setor na região
 ---
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
