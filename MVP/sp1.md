@@ -35,8 +35,8 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | 06/10/2025 | Concluído|
+| 02     | 10/11/2025 | Em andamento |
 
 ---
 
