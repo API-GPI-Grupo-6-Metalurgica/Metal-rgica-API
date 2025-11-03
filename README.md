@@ -84,8 +84,8 @@ Este projeto tem como objetivo analisar e criar um Dashboard da Cadeia Produtiva
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 06/10/2025 | [x/y]  | [MVP](MVP/sp1.md)  |
-| 02                | 10/11/2025 | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | 24/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
+| 01                | 06/10/2025 |  Concluído| [MVP](MVP/sp1.md)  |
+| 02                | 10/11/2025 | Em anadmento | [MVP](MVP/sp2.md)  |
+| 03                | 24/11/2025 |A fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 04/12/2025 | Afazer | [MVP](#)  |
 
