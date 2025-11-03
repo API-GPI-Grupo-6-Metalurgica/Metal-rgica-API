@@ -63,6 +63,13 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
+-<img width="1454" height="812" alt="Captura de tela 2025-11-03 003332" src="https://github.com/user-attachments/assets/5dfd0b80-d077-40f6-9eec-3a1951416268" />
+-<img width="1441" height="805" alt="Captura de tela 2025-11-03 003357" src="https://github.com/user-attachments/assets/469f7473-4831-4bf9-80ca-6467e2be9014" />
+-<img width="1440" height="809" alt="Captura de tela 2025-11-03 003415" src="https://github.com/user-attachments/assets/b1b7721c-95d3-4303-b852-5baba5e07ba7" />
+-<img width="1443" height="805" alt="Captura de tela 2025-11-03 003448" src="https://github.com/user-attachments/assets/e0304ad9-4229-43a9-876c-df1744238212" />
+
 - Fluxos ou protótipos
-- Vídeo (MVP): não foi realizado o Dashborad na primeira sprint
+- Vídeo (MVP):
+https://github.com/user-attachments/assets/7c762e5b-735c-4867-bc65-d14ad3f292f8
+
+
