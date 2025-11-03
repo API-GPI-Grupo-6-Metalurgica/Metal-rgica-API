@@ -9,7 +9,7 @@
 ---
 
 ## 📝 Descrição da Solução
-> Extruturação das ativiades que iram ser desenvolvidadas(MAPA METAL, FLUXOGRAMA, USER STORY, BACKLOG DO PRODUTO, FERRAMENTA GANTT)  
+> Extruturação das ativiades que irão ser desenvolvidadas(MAPA METAL, FLUXOGRAMA, USER STORY, BACKLOG DO PRODUTO, FERRAMENTA GANTT)  
 - Aprendizazem das tecnologias a serem utilizadas no projeto  
 - Falta de conhecimento no Python e Power bi  
 - Utilizando a metotologia Scrum, analisar dados do site Comex stat filtrando pelos códigos sh4 que se encaixam na cadeia produtiva metalúrgica (usinagem) nas categorias de Exportação e importação dos anos de 2021 á 2025 sendo necessário produzir um Dashboard e um relatório
