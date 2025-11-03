@@ -4,7 +4,7 @@
 > Analisar dados do site Comex stat filtrando pelos códigos sh4 que se encaixam na cadeia produtiva metalúrgica (usinagem):  
 - Com isso poderemos identificar as cidades que mais agregam valor no tipo da cadeia produtiva escolhida
 - Apresentando dados claros e concretos.
-- Um Dashboard completo contendo contendo importação e exportação, utilizando os filtros dos códigos sh4 pelos municípios de Caçapava, São José dos Campos e Jacareí, nos anos de 2021 á 2025 no POWER BI  ?  
+- Um Dashboard completo contendo importação e exportação, utilizando os filtros dos códigos sh4 pelos municípios de Caçapava, São José dos Campos e Jacareí, nos anos de 2021 á 2025 no POWER BI  ?  
 
 ---
 
