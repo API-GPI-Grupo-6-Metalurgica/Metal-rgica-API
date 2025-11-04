@@ -41,7 +41,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Este projeto tem como objetivo analisar e criar um Dashboard da Cadeia Produtiva Metalúrgica:
 * Analisar dados abertos do governo de Expoatação e imporatção da Cadeia produtiva Metalúrgica (USINAGEM)
 * Analisar as cidades de Caçapava, São José dos Campos e Jacareí
-* Indicar valores impportado e exportado do período dos anos de 2021,2022,2023,2024,2025
+* Indicar valores importado e exportado, dos anos de 2021,2022,2023,2024,2025
 * Top cinco produtos da cadeia produtiva mais importados e exportados
 * Top cinco maiores parceiros comerciais dessas cidades
 
