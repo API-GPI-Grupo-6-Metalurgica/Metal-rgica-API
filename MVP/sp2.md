@@ -1,18 +1,18 @@
 # 📌 MVP - [Cadeia Produtiva Metalúrgica (Usinagem]
 
 ## 🎯 Objetivo do MVP
-> Analisar dados do site Comex stat filtrando pelos códigos sh4 que se encaixam na cadeia produtiva metalúrgica (usinagem):  
-- Com isso poderemos identificar as cidades que mais agregam valor no tipo da cadeia produtiva escolhida
+> Analisar dados do site Comex stat filtrando pelos códigos sh4 que se encaixam á cadeia produtiva metalúrgica (usinagem):  
+- Com isso poderemos identificar as cidades que mais agregam valor na cadeia produtiva escolhida
 - Apresentando dados claros e concretos.
-- Um Dashboard completo contendo importação e exportação, utilizando os filtros dos códigos sh4 pelos municípios de Caçapava, São José dos Campos e Jacareí, nos anos de 2021 á 2025 no POWER BI. 
+- Um Dashboard completo contendo importação e exportação, utilizando os filtros: códigos sh4, municípios de Caçapava, São José dos Campos e Jacareí, nos anos de 2021 á 2025 no POWER BI. 
 
 ---
 
 ## 📝 Descrição da Solução
-> Extruturação das ativiades que irão ser desenvolvidadas(MAPA METAL, FLUXOGRAMA, USER STORY, BACKLOG DO PRODUTO, FERRAMENTA GANTT)  
+> Extruturação das ativiades que irão ser desenvolvidadas(MAPA METAL, FLUXOGRAMA, USER STORY, BACKLOG DO PRODUTO, FERRAMENTA GANTT, DASHBOARD POWER BI)  
 - Aprendizazem das tecnologias a serem utilizadas no projeto  
 - Falta de conhecimento no Python e Power BI  
-- Utilizando a metotologia Scrum, analisar dados do site Comex stat filtrando pelos códigos sh4 que se encaixam na cadeia produtiva metalúrgica (usinagem) nas categorias de Exportação e importação dos anos de 2021 á 2025 sendo necessário produzir um Dashboard interativo e um relatório técnico
+- Utilizando a metotologia Scrum, analisar dados do site Comex stat filtrando pelos códigos sh4 que se encaixam na cadeia produtiva metalúrgica (usinagem) nas categorias de Exportação e Importação dos anos de 2021 á 2025 sendo necessário produzir um Dashboard interativo e um relatório técnico
 
 ---
 
@@ -24,7 +24,7 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US2 | Como cliente , quero um painel interativo, que mostre o valor total importado e exportado por peródo, cidade, produto do segmento de usinagem, para que eu possa entender rápidamente o tamanho desse mercado e se o brasil é um importador ou exportador líquido. | Média      | 4 |
+| US2 | Como cliente , quero um painel interativo, que mostre o valor total importado e exportado por peródo, cidade, produto do segmento de usinagem, para que eu possa entender rápidamente o tamanho desse mercado e se os Municípios são importadores ou exportadores. | Média      | 4 |
 | US2 | Como Po, quero um Mapa Mental que defina o projeto. | Alta       | 4
 | US2 | Como Po, quero a criação de um dashboard interativo no POWER BI. | Alta       | 4|
 | US2 | Como Po, quero um fuxograma para as etapas do projeto. | Alta       | 4 |
