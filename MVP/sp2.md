@@ -69,7 +69,7 @@ Cidade São José dos Campos
 <img width="1354" height="742" alt="Captura de tela 2025-11-09 000038" src="https://github.com/user-attachments/assets/543ac812-0327-45c6-bf2d-1f06df85dec8" />
 Parceiros comerciais
 <img width="1329" height="740" alt="Captura de tela 2025-11-09 000111" src="https://github.com/user-attachments/assets/da7d7947-3e2a-4bc6-9a88-6a50799a7034" />
-Top 10 produtos mais importados e exportados
+Top 10 produtos mais Importados e Exportados
 <img width="1340" height="741" alt="Captura de tela 2025-11-09 000139" src="https://github.com/user-attachments/assets/2d2c0d58-9d44-4676-98f0-fdab1900867e" />
 
 - Fluxos ou protótipos
