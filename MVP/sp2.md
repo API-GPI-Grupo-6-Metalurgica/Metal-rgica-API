@@ -73,6 +73,9 @@ Top 10 produtos mais Importados e Exportados
 <img width="1340" height="741" alt="Captura de tela 2025-11-09 000139" src="https://github.com/user-attachments/assets/2d2c0d58-9d44-4676-98f0-fdab1900867e" />
 
 - Fluxos ou protótipos
-- Vídeo (MVP):https://github.com/user-attachments/assets/7c762e5b-735c-4867-bc65-d14ad3f292f8
+- Vídeo (MVP):
+https://github.com/user-attachments/assets/62e305fb-71ec-48df-adc5-4fcff7e4d794
+
+
 
 
