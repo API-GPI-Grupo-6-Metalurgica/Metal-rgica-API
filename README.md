@@ -1,4 +1,5 @@
 # Aprendizado por Projeto Integrador (API) - Cadeia produtiva Metalúrgica (usinagem)
+<img width="1449" height="1079" alt="Captura de tela 2025-11-10 173154" src="https://github.com/user-attachments/assets/d87674c1-f1b1-46e2-aeb6-efa702390b0a" />
 
 ## Mapa mental
 <img width="1455" height="1004" alt="Captura de tela 2025-11-02 151756" src="https://github.com/user-attachments/assets/d58a9a09-c385-43dc-b3f5-5dc6dea2ee37" />
