@@ -68,8 +68,10 @@
 -<img width="1481" height="827" alt="Captura de tela 2025-11-02 221726" src="https://github.com/user-attachments/assets/06597d9e-9fdb-4b5e-9677-d405d5db4deb" />
 -<img width="1445" height="817" alt="Captura de tela 2025-11-02 221741" src="https://github.com/user-attachments/assets/ed23a40a-d5ce-4fc8-a247-81c6a527c4d8" />
 -<img width="1415" height="816" alt="Captura de tela 2025-11-02 221759" src="https://github.com/user-attachments/assets/3a9e8d65-3950-462e-940e-9477742a9c60" />
--https://drive.google.com/open?id=1xmrA1FQHD_sVnGs5TDI1SR1zNOG8fqQh&usp=drive_copy
 
-- Vídeo (MVP): não foi realizado o Dashborad na primeira sprint
--https://github.com/user-attachments/assets/3457d99c-8116-4bef-bab0-d968258d71c6
+https://drive.google.com/open?id=1xmrA1FQHD_sVnGs5TDI1SR1zNOG8fqQh&usp=drive_copy
+
+## Vídeo (MVP): não foi realizado o Dashborad na primeira sprint
+
+https://github.com/user-attachments/assets/3457d99c-8116-4bef-bab0-d968258d71c6
 
