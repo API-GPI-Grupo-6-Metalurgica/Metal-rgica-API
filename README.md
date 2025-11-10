@@ -7,13 +7,10 @@
 <img width="1455" height="1009" alt="Captura de tela 2025-11-02 151739" src="https://github.com/user-attachments/assets/44b73cae-ed17-4ec5-9355-adb9c217ac60" />
 
 ## Backlog do produto
-<img width="1873" height="982" alt="Captura de tela 2025-11-02 151836" src="https://github.com/user-attachments/assets/31ce9969-5420-4024-9614-0b271604f2f7" />
+<img width="1612" height="1894" alt="image" src="https://github.com/user-attachments/assets/29528f91-11d6-45d5-8631-d86c496741f0" />
 
 ## Ferramenta de gestão " GANTT "
-<img width="1779" height="689" alt="Captura de tela 2025-11-09 112137" src="https://github.com/user-attachments/assets/235ce3e1-2833-4ddc-b7d2-a1c7cd783ea4" />
-
-
-
+<img width="1773" height="597" alt="Captura de tela 2025-11-10 001324" src="https://github.com/user-attachments/assets/e4e0e432-8685-41b2-b47b-53049bfecfaa" />
 
 
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
@@ -60,26 +57,27 @@ Este projeto tem como objetivo analisar e criar um Dashboard da Cadeia Produtiva
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 |------|------------|----------- | ---------- | ------ |
-|1|Alta|	Como gestor e tomador de decisões de políticas públicas solicito um levantamento, dentro da Cadeia Industrial Metalúrgica, uma análise do Comércio Exterior, especificamente do mercado de Usinagem nas Regiões de Caçapava, Jacareí e São José dos Campos, no período de 2021 à 2025.|	8h	10/09/2025|	1|
-|2	|Média	|Como gestor , na qualidade de tomador de serviço, quero os principais itens dessa cadeia específica.	|8h	10/09/2025|	1|
-|3|	Média	|Como Cliente, quero analisar se há possibilidade de apoio a investimento em Indústrias que forneçam: máquinas, peças e ferramental para esse tipo de mercado além de cursos de capacitação de mão de obra.	|8h	10/09/2025|	1
-|4|	Média|	Um gráfico para verificar os países parceiros comerciais, de quem Importamos e Exportamos.	|8h	10/09/2025|	1|
-|5|	Alta	Como P.O. estou levantando recursos humanos para tal projeto.	|2h	18/09/2025|	1|
-|6|	Alta	Como prestador, conforme oferecemos nessa segunda Sprint, faremos análises dos dados como referência o site oficial de "COMEX STAT" do Governo Federal.	|2h	26/09/2025|	1|
-|7|	Alta	Como P.O. solicito a minha equipe uma distribuição de tarefas a realizar.	|2h	17/09/2025 |	1|
-|8|	Média	Scrum Master define o grupo de tarefa e monitora o desempenho com ferramentas adequadas.	|2h	03/10/2025	|1|
-|9|	Alta	Apresentação da 1ª Sprint.	|2h	10/10/2025|	1|
-|10|Média	Dificuldades da equipe no levantamento de dados com a tabela NCM para demonstração com a ferramenta POWER BI	|2h	12/12/2025|	2|
-|11|Média|	Como tomador do serviço, faço modelagem dos dados da tabela SH4 pelo Python e Colab.	|2h	15/12/2025|	2|
-|12|	Alta|	Dificuldades da equipe no levantamento de dados com a tabela NCM para demonstração com a ferramenta POWER BI	|2h	24/02/2025|	2|
-|13|	Altal|	Como tomador, faço levantamento pela tabela SH4 o comércio exeterior dos municípios citados	|2h	28/10/2025|	2|
-|14|	Baixa|	Como cliente, solicito gráfico linear das exportações mensais de 2021 à 2025.	|2h	Não	|2|
-|15|	Baixa|	Como tomador de serviço, verifico que não foi essa solicitação inicial, foram solicitadas as Importações e Exportações Anuais e por dificuldades técnicas e prazo curto, não poderei mudar. Não foi esse o acordo inicial.	|2h	Não|	2|
-|16|	Alta|	Sprint com a Dashboard das Importações e Exportações com gráficos, período determinado dos três municípios e os principais países parceiros comerciais.	|2h	01/11/2025|	2|		
-|17|	Média|	Como cliente solicito Dashboard completa com os dados anuais de Importação e Exportação de 2021 à 2025.	|2h	Em andamento|	3|
-|18|	Média|	Como Cliente solicito o relatório com o desenvolvimento e as dificuldades ocorridas	|2h	Em andamento|	3|
-|19|	Média|	Como cliente solicito a validação no Git Hub.	|2h	Em andamento	|3|
-|20|	Média|	Como Cliente Solicito a apresentação do Trabalho definitivo e apresentação a Feira de Soluções.	|2h	Em andamento	|3|
+|1|	Alta|	Como gestor e tomador de decisões de políticas públicas solicito um levantamento, dentro da Cadeia Industrial Metalúrgica, uma análise do Comércio Exterior, especificamente do mercado de Usinagem nas Regiões de Caçapava, Jacareí e São José dos Campos, no período de 2021 à 2025.|	8h	10/09/2025|	1|
+|2|	Média|	Como gestor, na qualidade de tomador de serviço, quero os principais itens dessa cadeia específica.|	8h	10/09/2025|	1
+|3|	Média|	Como Cliente, quero analisar se há possibilidade de apoio a investimento em Indústrias que forneçam: máquinas, peças e ferramental para esse tipo de mercado além de cursos de capacitação de mão de obra.	|8h	10/09/2025|	1|
+|4|	Média|	Um gráfico para verificar os países parceiros comerciais, de quem Importamos e Exportamos. |8h	10/09/2025|	1
+|5|	Alta|	Como P.O. estou levantando recursos humanos para tal projeto.	|2h	18/09/2025|	1|
+|6|	Alta|	Como prestador, conforme oferecemos nessa segunda Sprint, faremos análises dos dados como referência o site oficial de "COMEX STAT" do Governo Federal.	|2h	26/09/2025|	1|
+|7|	Alta|	Como P.O. solicito a minha equipe uma distribuição de tarefas a realizar.	|2h	17/09/2025|	1|
+|8|	Média|	Scrum Master define o grupo de tarefa e monitora o desempenho com ferramentas adequadas.	|2h	03/10/2025|	1|
+|9|	Alta|	Apresentação da 1ª Sprint.	|2h	10/10/2025|	1|
+|10|	Alta|	Como cliente, quero um painel interativo, que mostre o valor total importado e exportado por período, cidade, produto do segmento de usinagem, para que eu possa entender rapidamente o tamanho desse mercado e se os municípios são importadores e exportadores.	|2h	12/10/2025|	2|
+|11|	Média|	Dificuldades da equipe no levantamento de dados com a tabela NCM para demonstração com a ferramenta POWER BI	|2h	15/12/2025|	2|
+|12|	Alta|	 Como cliente solicito levantamento de dados do Comércio Exterior e suas diferenças dos anos com a Pandemia, a recuperação pós pandemias e se está havendo uma estabilidade.	|2h	26/10/2025|	2|
+|13|	Alta|	Como tomador, faço levantamento pela tabela SH4 o comércio exterior dos municípios citados	|2h	28/10/2025|	2|
+|14|	Baixa|	Como cliente, solicito gráfico linear das exportações mensais de 2021 à 2025.	|2h	Não|	2|
+|15|	Baixa|	Como tomador de serviço, verifico que não foi essa solicitação inicial, foram solicitadas as Importações e Exportações Anuais e por dificuldades técnicas e prazo curto, não poderei mudar. Não foi esse o acordo inicial.	|2h	Não	|2|
+|16|	Alta|	Como tomador de serviço, com levantamento dos nossos dados será possível uma interpretação dos mesmos para análise no pós pandemia.	|2h	01/11/2025|	2|
+|17|	Alta|	Sprint com a Dashboard das Importações e Exportações com gráficos, período determinado dos três municípios e os principais países parceiros comerciais.	|2h	09/11/2025|	2|			
+|18|	Média|	Como cliente solicito Dashboard completa com os dados anuais de Importação e Exportação de 2021 à 2025.	|2h	Em andamento|	3|
+|19|	Média|	Como Cliente solicito o relatório com o desenvolvimento e as dificuldades ocorridas	|2h	Em andamento|	3|
+|20|	Média|	Como cliente solicito a validação no Git Hub.	|2h	Em andamento|	3|
+|21|	Média|	Como Cliente Solicito a apresentação do Trabalho definitivo e apresentação a Feira de Soluções.	|2h	Em andamento|	3|
 
 # Registro das Sprints
 
