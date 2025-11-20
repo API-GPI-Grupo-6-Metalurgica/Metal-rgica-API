@@ -1,20 +1,34 @@
+# Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+
 # Aprendizado por Projeto Integrador (API) - Cadeia produtiva Metalúrgica (usinagem)
+
 <img width="1449" height="1079" alt="Captura de tela 2025-11-10 173154" src="https://github.com/user-attachments/assets/d87674c1-f1b1-46e2-aeb6-efa702390b0a" />
 <img width="1446" height="950" alt="Captura de tela 2025-11-10 173903" src="https://github.com/user-attachments/assets/dadb0cdf-7314-499e-b1e7-91bcfcbf0e6e" />
 
-## Mapa mental
+# Mapa mental
 <img width="1455" height="1004" alt="Captura de tela 2025-11-02 151756" src="https://github.com/user-attachments/assets/d58a9a09-c385-43dc-b3f5-5dc6dea2ee37" />
 
-## Fluxograma
+# Fluxograma
 <img width="1455" height="1009" alt="Captura de tela 2025-11-02 151739" src="https://github.com/user-attachments/assets/44b73cae-ed17-4ec5-9355-adb9c217ac60" />
 
-## Backlog do produto
+# Backlog do produto
 <img width="1256" height="1284" alt="image" src="https://github.com/user-attachments/assets/5aefad53-4685-4cba-bb25-f4db06fa129e" />
 
+# Dashboard Importação e Exportação da Cadeia Produtiva
+
+<img width="1687" height="848" alt="Captura de tela 2025-11-20 005115" src="https://github.com/user-attachments/assets/93d49b35-a316-40df-8d2e-f9f40c1fbf94" />
+
+<img width="1680" height="842" alt="Captura de tela 2025-11-20 005243" src="https://github.com/user-attachments/assets/def69302-54f0-42a6-932a-8eea5c6cfbe1" />
+
+<img width="1681" height="855" alt="Captura de tela 2025-11-20 005319" src="https://github.com/user-attachments/assets/bbf7f252-ce6f-4eb9-81e8-d2d5ec9ddecf" />
+
+<img width="1675" height="851" alt="Captura de tela 2025-11-20 005423" src="https://github.com/user-attachments/assets/9f9f341a-8718-45fc-9001-e5298b7e9721" />
+
+<img width="1675" height="851" alt="Captura de tela 2025-11-20 005423" src="https://github.com/user-attachments/assets/edd1ee9e-01da-4422-8faf-1c30bb3afb72" />
+
+https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
 
 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
