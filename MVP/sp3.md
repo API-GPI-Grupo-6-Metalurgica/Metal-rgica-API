@@ -63,3 +63,23 @@
 - Prints de tela  
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
+
+Dashboard inicial mostrando se a cadeia produtiva é importadora ou exportadora
+<img width="1687" height="848" alt="Captura de tela 2025-11-20 005115" src="https://github.com/user-attachments/assets/42e7ed6d-31e0-43c1-9a6f-49d1e360d096" />
+Próxima imagem  KPI
+<img width="1680" height="842" alt="Captura de tela 2025-11-20 005243" src="https://github.com/user-attachments/assets/3ffe60ea-85b5-4929-8ce4-a5a60a875e86" />
+Um gráfico de linha mensal
+<img width="1681" height="855" alt="Captura de tela 2025-11-20 005319" src="https://github.com/user-attachments/assets/7dda2353-cb11-4c11-8310-7c6bad951032" />
+Por último um top 10 parceiros comerciais
+<img width="1675" height="851" alt="Captura de tela 2025-11-20 005423" src="https://github.com/user-attachments/assets/a2d97942-7e79-47ff-985b-c9c5af88cbd4" />
+
+Um vidéo rápido demonstrando as funcionalidades do Dashboard
+
+https://github.com/user-attachments/assets/9cdcb9b5-353b-4e46-8561-6ffe033bb466
+
+
+
+
+
+
+
