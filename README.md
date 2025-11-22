@@ -15,19 +15,25 @@
 
 # Dashboard Importação e Exportação da Cadeia Produtiva
 
-> Arquivo Google Colab
+## Arquivo Google Colab
 
->Primeiro trabalho
+>Primeiro passo
 
 https://colab.research.google.com/drive/1iIwXUhsNgcVJA8B9EKZpmgDArt6t77os?usp=drive_link
 
-> Segundo trabalho dados exportção
+> Segundo passo dados exportação aprendendo
 
 https://colab.research.google.com/drive/1-sZJZGVSsheN1fNU_Ef60qnZkdXDsTql?usp=drive_link
 
+> Terceiro passo juntando todos os dados de importação em um único Arquivo e o mesmo para exportação
+
 https://colab.research.google.com/drive/1UCa-sUD44SGleC2Q_fuByw4G_dOxTlQR?usp=drive_link
 
+>Quarto passo juntando todos em um único arquivo
+
 https://colab.research.google.com/drive/11xS76rw55ZOBzjL-1zlrca465_SGmVLh?usp=drive_link
+
+>Quinto passo criando uma coluna de valor para Exportação outra importação e uma para Balança comercial
 
 https://colab.research.google.com/drive/1UPbPGwr2CO3U8kikfb1ZwxlJU3VDV-wo?usp=drive_link
 
