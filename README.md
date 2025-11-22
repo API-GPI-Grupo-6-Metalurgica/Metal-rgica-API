@@ -1,6 +1,6 @@
 # Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
-# Aprendizado por Projeto Integrador (API) - Cadeia produtiva Metalúrgica (usinagem)
+# Aprendizado por Projeto Integrador (API) - Cadeia Produtiva Metalúrgica (usinagem)
 
 <img width="1449" height="1079" alt="Captura de tela 2025-11-10 173154" src="https://github.com/user-attachments/assets/d87674c1-f1b1-46e2-aeb6-efa702390b0a" />
 
