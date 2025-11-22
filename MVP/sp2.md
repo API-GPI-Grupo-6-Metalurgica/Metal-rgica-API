@@ -63,28 +63,34 @@
 
 ## 📂 Anexos / Evidências
 
-## Product Backlog
+## Prints de tela
+
+>Product Backlog
 
 <img width="1155" height="1024" alt="Captura de tela 2025-11-10 173009" src="https://github.com/user-attachments/assets/87cc5565-a131-47d5-b60f-8090285a5e58" />
 
-## Importação e Exportação
+>Importação e Exportação
 
 <img width="1326" height="740" alt="Captura de tela 2025-11-09 000005" src="https://github.com/user-attachments/assets/8e90db5a-2de2-433b-a674-8f81e6ba27d5" />
 
-## Cidade São José dos Campos
+>Cidade São José dos Campos
 
 <img width="1354" height="742" alt="Captura de tela 2025-11-09 000038" src="https://github.com/user-attachments/assets/543ac812-0327-45c6-bf2d-1f06df85dec8" />
 
-## Parceiros comerciais
+>Parceiros comerciais
 
 <img width="1329" height="740" alt="Captura de tela 2025-11-09 000111" src="https://github.com/user-attachments/assets/da7d7947-3e2a-4bc6-9a88-6a50799a7034" />
 
-## Top 10 produtos mais Importados e Exportados
+
+>Top 10 produtos mais Importados e Exportados
 
 <img width="1340" height="741" alt="Captura de tela 2025-11-09 000139" src="https://github.com/user-attachments/assets/2d2c0d58-9d44-4676-98f0-fdab1900867e" />
 
 
-## Vídeo (MVP):
+## Vídeo
+
+> Vidéo rápido do funcionamento do Dashboard
+
 https://github.com/user-attachments/assets/62e305fb-71ec-48df-adc5-4fcff7e4d794
 
 
