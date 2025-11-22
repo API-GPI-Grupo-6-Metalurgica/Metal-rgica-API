@@ -21,7 +21,7 @@
 
 https://colab.research.google.com/drive/1iIwXUhsNgcVJA8B9EKZpmgDArt6t77os?usp=drive_link
 
-> Segundo passo dados exportação aprendendo
+> Segundo passo dados exportação e tabelas auxiliares
 
 https://colab.research.google.com/drive/1-sZJZGVSsheN1fNU_Ef60qnZkdXDsTql?usp=drive_link
 
