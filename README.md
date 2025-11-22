@@ -15,7 +15,7 @@
 
 # Dashboard Importação e Exportação da Cadeia Produtiva
 
-## Arquivo Google Colab
+# Arquivo Google Colab
 
 > Primeiro passo - Processo de aprendizagem.
 
@@ -37,11 +37,11 @@ https://colab.research.google.com/drive/11xS76rw55ZOBzjL-1zlrca465_SGmVLh?usp=dr
 
 https://colab.research.google.com/drive/1UPbPGwr2CO3U8kikfb1ZwxlJU3VDV-wo?usp=drive_link
 
-## Arquivo.csv de Importação e Exportação.
+# Arquivo.csv de Importação e Exportação.
 
 https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive_link
 
-## Arquivo Power BI
+# Arquivo Power BI
 
 https://drive.google.com/file/d/1vgGE26VmNYBYqFFwclIxYYIQaAm9Enp6/view?usp=drive_link
 
@@ -96,7 +96,7 @@ Este projeto tem como objetivo analisar e criar um Dashboard da "Cadeia Produtiv
 * Top dez - Produtos da cadeia produtiva mais importados e exportados.
 * Top dez - Maiores parceiros comerciais dessas cidades analisadas.
 
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 * Microsoft Excel
 * Power BI
@@ -106,7 +106,7 @@ Este projeto tem como objetivo analisar e criar um Dashboard da "Cadeia Produtiv
 * Ghithub
 * Gemini (para pesquisas)
 
-## Product Backlog
+# Product Backlog
 
 <img width="1256" height="1284" alt="image" src="https://github.com/user-attachments/assets/5aefad53-4685-4cba-bb25-f4db06fa129e" />
 
