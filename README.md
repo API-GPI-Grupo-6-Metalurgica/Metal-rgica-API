@@ -17,7 +17,7 @@
 
 ## Arquivo Google Colab
 
->Primeiro passo - Processo de aprendizagem.
+> Primeiro passo - Processo de aprendizagem.
 
 https://colab.research.google.com/drive/1iIwXUhsNgcVJA8B9EKZpmgDArt6t77os?usp=drive_link
 
@@ -73,7 +73,7 @@ https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
 * [Backlog do produto](#Product-Backlog)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Registro das Sprints](#Registro-das-Sprints)
-* 
+
 # Projeto (API)
  
 Projeto pedagógico alicerçado na metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
