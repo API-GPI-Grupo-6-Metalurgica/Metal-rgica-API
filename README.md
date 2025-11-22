@@ -16,6 +16,8 @@
 
 # Dashboard Importação e Exportação da Cadeia Produtiva
 
+https://drive.google.com/file/d/1vgGE26VmNYBYqFFwclIxYYIQaAm9Enp6/view?usp=drive_link
+
 > Análise da cadeia produtiva Metalúrgica (usinagem)
 
 <img width="1687" height="848" alt="Captura de tela 2025-11-20 005115" src="https://github.com/user-attachments/assets/93d49b35-a316-40df-8d2e-f9f40c1fbf94" />
