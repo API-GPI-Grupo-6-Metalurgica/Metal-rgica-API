@@ -67,7 +67,7 @@
 ## 📂 Anexos / Evidências
 
 
-- Prints de tela
+## Prints de tela
   
   
 >Dashboard inicial mostrando se a cadeia produtiva é importadora ou exportadora
@@ -94,7 +94,7 @@
 <img width="1675" height="851" alt="Captura de tela 2025-11-20 005423" src="https://github.com/user-attachments/assets/a2d97942-7e79-47ff-985b-c9c5af88cbd4" />
 
 
-- Vídeo (MVP)
+## Vídeo
   
   
 >Um vidéo rápido demonstrando as funcionalidades do Dashboard
