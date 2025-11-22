@@ -15,6 +15,11 @@
 <img width="1256" height="1284" alt="image" src="https://github.com/user-attachments/assets/5aefad53-4685-4cba-bb25-f4db06fa129e" />
 
 # Dashboard Importação e Exportação da Cadeia Produtiva
+>Arquivo.csv de importação e exportação
+>
+https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive_link
+
+>Arquivo Power Bi
 
 https://drive.google.com/file/d/1vgGE26VmNYBYqFFwclIxYYIQaAm9Enp6/view?usp=drive_link
 
