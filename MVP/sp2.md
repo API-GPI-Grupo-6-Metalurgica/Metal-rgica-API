@@ -51,7 +51,7 @@
 ## 📈 Métricas de Validação
 - Professor e representande do CADI
 - (Negativo): O professor aprovou a metodologia e o Dashboard porém pediu alterações, separar os dados de exportação e importação e adicionar a cidade de Taubaté e resultados mensais, retirar os produtos montados e produtos finais do filtro SH4 deixar somente peças.
-- ALETRAR AO FINAL DA SPRINT-Indicadores de negócio ( o painel foi 100%  interativo e explicativo, tempo para a apresentação foi feita em menos de 5 minutos).
+- Indicadores de negócio ( o painel foi 100%  interativo e explicativo, tempo para a apresentação foi feita em menos de 5 minutos).
 
 ---
 
