@@ -14,8 +14,16 @@
 <img width="1256" height="1284" alt="image" src="https://github.com/user-attachments/assets/5aefad53-4685-4cba-bb25-f4db06fa129e" />
 
 # Dashboard Importação e Exportação da Cadeia Produtiva
+
+> Arquivo Google Colab
+https://colab.research.google.com/drive/1iIwXUhsNgcVJA8B9EKZpmgDArt6t77os?usp=drive_link
+https://colab.research.google.com/drive/1-sZJZGVSsheN1fNU_Ef60qnZkdXDsTql?usp=drive_link
+https://colab.research.google.com/drive/1UCa-sUD44SGleC2Q_fuByw4G_dOxTlQR?usp=drive_link
+https://colab.research.google.com/drive/11xS76rw55ZOBzjL-1zlrca465_SGmVLh?usp=drive_link
+https://colab.research.google.com/drive/1UPbPGwr2CO3U8kikfb1ZwxlJU3VDV-wo?usp=drive_link
+
 >Arquivo.csv de importação e exportação
->
+
 https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive_link
 
 >Arquivo Power Bi
