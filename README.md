@@ -16,15 +16,23 @@
 
 # Dashboard Importação e Exportação da Cadeia Produtiva
 
+> Análise da cadeia produtiva Metalúrgica (usinagem)
+
 <img width="1687" height="848" alt="Captura de tela 2025-11-20 005115" src="https://github.com/user-attachments/assets/93d49b35-a316-40df-8d2e-f9f40c1fbf94" />
+
+> Gráfico de KPI
 
 <img width="1680" height="842" alt="Captura de tela 2025-11-20 005243" src="https://github.com/user-attachments/assets/def69302-54f0-42a6-932a-8eea5c6cfbe1" />
 
+>Gráfico Linhas Mensal
+
 <img width="1681" height="855" alt="Captura de tela 2025-11-20 005319" src="https://github.com/user-attachments/assets/bbf7f252-ce6f-4eb9-81e8-d2d5ec9ddecf" />
+
+>Parceiros comerciais e produtos comercializados
 
 <img width="1675" height="851" alt="Captura de tela 2025-11-20 005423" src="https://github.com/user-attachments/assets/9f9f341a-8718-45fc-9001-e5298b7e9721" />
 
-<img width="1675" height="851" alt="Captura de tela 2025-11-20 005423" src="https://github.com/user-attachments/assets/edd1ee9e-01da-4422-8faf-1c30bb3afb72" />
+>Vidéo do Dashboard
 
 https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
 
