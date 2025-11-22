@@ -60,7 +60,8 @@
 
 ## 🚀 Próximos Passos
 
-- Altear ao final da sprint 
+- Altear ao final da sprint
+- Altear ao final da sprint Indicadores de negócio
 
 ---
 
