@@ -49,16 +49,15 @@
 ---
 
 ## 📈 Métricas de Validação
-- ALETRAR AO FINAL DA SPRINT-Professor e representande do CADI
-- ALETRAR AO FINAL DA SPRINT-(negativo): O professor aprovou a metodologia porém faltou o dashboard com as informações  
-- ALETRAR AO FINAL DA SPRINT-Indicadores de negócio ( o painel foi 100% explicativo e estático, tempo para a apresentação foi feita em menos de 5 minutos
+- Professor e representande do CADI
+- (Negativo): O professor aprovou a metodologia e o Dashboard porém pediu alterações, separar os dados de exportação e importação e adicionar a cidade de Taubaté e resultados mensais, retirar os produtos montados e produtos finais do filtro SH4 deixar somente peças.
+- ALETRAR AO FINAL DA SPRINT-Indicadores de negócio ( o painel foi 100%  interativo e explicativo, tempo para a apresentação foi feita em menos de 5 minutos).
 
 ---
 
 ## 🚀 Próximos Passos
-- ALETRAR AO FINAL DA SPRINT-Utilizar o Python e o Power BI para apresentar um Dashboard pronto interativo, Backlog do produto final e uma user story completa
-- ALETRAR AO FINAL DA SPRINT-Utilizar gráfico de linhas para melhor vizualizção dos dados, criar um tpo 5 produtros mais importados ou exportados top parceiros comerciais
-- ALETRAR AO FINAL DA SPRINT-implementar filtro interativo de exportação ou imporatção, de SH4 E cidades escolhidas São José dos Campos e Jacareí
+- Utilizar o Python para criar uma coluna valor exportação, valor importação e uma do saldo da balança comercial e o Power BI para apresentar um Dashboard pronto interativo, Backlog do produto final e uma user story completa
+
 
 ---
 
