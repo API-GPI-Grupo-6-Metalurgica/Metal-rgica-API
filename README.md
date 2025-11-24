@@ -11,7 +11,7 @@
 <img width="1455" height="1009" alt="Captura de tela 2025-11-02 151739" src="https://github.com/user-attachments/assets/44b73cae-ed17-4ec5-9355-adb9c217ac60" />
 
 # Backlog do produto
-<img width="1256" height="1284" alt="image" src="https://github.com/user-attachments/assets/5aefad53-4685-4cba-bb25-f4db06fa129e" />
+
 
 # Dashboard Importação e Exportação da Cadeia Produtiva
 
