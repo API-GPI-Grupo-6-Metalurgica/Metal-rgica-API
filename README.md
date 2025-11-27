@@ -1,24 +1,20 @@
 # Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a "Proatividade, Autonomia, Colaboração e Entrega de Resultados dos Estudantes Envolvidos".
 
 # Aprendizado por Projeto Integrador (API) - Cadeia Produtiva Metalúrgica (usinagem)
+<img width="1371" height="776" alt="Screenshot_8" src="https://github.com/user-attachments/assets/84bd91cf-c44e-4e3b-bdf4-e732e1448b39" />
 
-<img width="1449" height="1079" alt="Captura de tela 2025-11-10 173154" src="https://github.com/user-attachments/assets/d87674c1-f1b1-46e2-aeb6-efa702390b0a" />
-
-# Mapa mental
 <img width="1455" height="1004" alt="Captura de tela 2025-11-02 151756" src="https://github.com/user-attachments/assets/d58a9a09-c385-43dc-b3f5-5dc6dea2ee37" />
 
-# Fluxograma
-<img width="1455" height="1009" alt="Captura de tela 2025-11-02 151739" src="https://github.com/user-attachments/assets/44b73cae-ed17-4ec5-9355-adb9c217ac60" />
+# Desenvolvedores
+<img width="1359" height="764" alt="Screenshot_7" src="https://github.com/user-attachments/assets/43ab59c9-5837-42c5-82e8-ed7490865549" />
 
 # Backlog do produto
-
-<img width="1256" height="1284" alt="image" src="https://github.com/user-attachments/assets/5aefad53-4685-4cba-bb25-f4db06fa129e" />
-
+<img width="1355" height="764" alt="Screenshot_9" src="https://github.com/user-attachments/assets/202fad6f-7dc7-4d20-86ec-3b14fea8c231" />
 
 # Dashboard Importação e Exportação da Cadeia Produtiva
+<img width="1366" height="763" alt="Screenshot_10" src="https://github.com/user-attachments/assets/db4b39d1-43a0-476d-82da-175a3bd5e939" />
 
 # Arquivo Google Colab
-
 > Primeiro passo - Processo de aprendizagem.
 
 https://colab.research.google.com/drive/1iIwXUhsNgcVJA8B9EKZpmgDArt6t77os?usp=drive_link
