@@ -3,8 +3,6 @@
 # Aprendizado por Projeto Integrador (API) - Cadeia Produtiva Metalúrgica (usinagem)
 <img width="1371" height="776" alt="Screenshot_8" src="https://github.com/user-attachments/assets/84bd91cf-c44e-4e3b-bdf4-e732e1448b39" />
 
-<img width="1455" height="1004" alt="Captura de tela 2025-11-02 151756" src="https://github.com/user-attachments/assets/d58a9a09-c385-43dc-b3f5-5dc6dea2ee37" />
-
 # Desenvolvedores
 <img width="1359" height="764" alt="Screenshot_7" src="https://github.com/user-attachments/assets/43ab59c9-5837-42c5-82e8-ed7490865549" />
 
