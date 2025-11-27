@@ -10,7 +10,6 @@
 <img width="1355" height="764" alt="Screenshot_9" src="https://github.com/user-attachments/assets/202fad6f-7dc7-4d20-86ec-3b14fea8c231" />
 
 # Dashboard Importação e Exportação da Cadeia Produtiva
-<img width="1366" height="763" alt="Screenshot_10" src="https://github.com/user-attachments/assets/db4b39d1-43a0-476d-82da-175a3bd5e939" />
 
 # Arquivo Google Colab
 > Primeiro passo - Processo de aprendizagem.
