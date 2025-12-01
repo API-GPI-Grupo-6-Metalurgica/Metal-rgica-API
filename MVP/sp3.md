@@ -40,7 +40,7 @@
 |--------|----------------------------------------------|----------|
 | 01     | 06/10/2025                          | Concluído|
 | 02     | 10/11/2025                          | Concluído |
-| 03     | 24/11/2025                          | Em andamento |
+| 03     | 24/11/2025                          | Concluído |
 
 ---
 
@@ -54,16 +54,14 @@
 ## 📈 Métricas de Validação
 - Professor e representande do CADI
   
-- Altear ao final da sprint -(Negativo ou positivo):
+- Positivo - pronto para apresentar na feira de soluções
 
-- Altear ao final da sprint Indicadores de negócio.
 
 ---
 
 ## 🚀 Próximos Passos
 
-- Altear ao final da sprint
-- Altear ao final da sprint 
+- Apresentação na Feira de soluções 
 
 ---
 
