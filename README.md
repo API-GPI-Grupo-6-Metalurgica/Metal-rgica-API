@@ -40,6 +40,16 @@ https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive
 
 https://drive.google.com/file/d/1vgGE26VmNYBYqFFwclIxYYIQaAm9Enp6/view?usp=drive_link
 
+# Arquivo Power point 3° sprint e vídeo da apresentação
+
+> Apresentação
+
+https://docs.google.com/presentation/d/19VbSszKY70ZFRTxBJPLYaIOPXBlnvCRr/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
+
+> Vídeo da Apresdentação
+
+https://drive.google.com/file/d/1CX-21PI59WqLfP5kft04LVBz6kYCfdBF/view?usp=drive_link
+
 > Análise da cadeia produtiva metalúrgica (usinagem).
 
 <img width="1687" height="848" alt="Captura de tela 2025-11-20 005115" src="https://github.com/user-attachments/assets/93d49b35-a316-40df-8d2e-f9f40c1fbf94" />
