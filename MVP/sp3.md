@@ -69,6 +69,13 @@
 
 ## 📂 Anexos / Evidências
 
+## Arquivo da apresentação 3° sprint
+
+https://docs.google.com/presentation/d/19VbSszKY70ZFRTxBJPLYaIOPXBlnvCRr/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
+
+## Vídeo apresentação 3° sprint
+
+https://drive.google.com/file/d/1CX-21PI59WqLfP5kft04LVBz6kYCfdBF/view?usp=drive_link
 
 ## Prints de tela
   
