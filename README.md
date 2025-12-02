@@ -65,7 +65,7 @@ https://drive.google.com/file/d/1vgGE26VmNYBYqFFwclIxYYIQaAm9Enp6/view?usp=drive
 
 # Arquivo Power point 3° sprint e gravação da apresentação
 
-> Apresentação
+> Slides da apresentação
 
 https://docs.google.com/presentation/d/19VbSszKY70ZFRTxBJPLYaIOPXBlnvCRr/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
 
