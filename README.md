@@ -2,15 +2,20 @@
 
 # Aprendizado por Projeto Integrador (API) - Cadeia Produtiva Metalúrgica (usinagem)
 
-<img width="1371" height="776" alt="Screenshot_8" src="https://github.com/user-attachments/assets/84bd91cf-c44e-4e3b-bdf4-e732e1448b39" />
+<img width="1358" height="762" alt="Captura de tela 2025-12-01 212714" src="https://github.com/user-attachments/assets/7ada3c66-cffb-4dcd-9a42-342f3b73be29" />
+
 
 # Desenvolvedores
 
-<img width="1359" height="764" alt="Screenshot_7" src="https://github.com/user-attachments/assets/43ab59c9-5837-42c5-82e8-ed7490865549" />
+<img width="1360" height="765" alt="Captura de tela 2025-12-01 212815" src="https://github.com/user-attachments/assets/6fc517d9-4b97-4f54-a6c1-63c0dcc30edc" />
+
 
 # Backlog do produto
 
-<img width="1355" height="764" alt="Screenshot_9" src="https://github.com/user-attachments/assets/202fad6f-7dc7-4d20-86ec-3b14fea8c231" />
+<img width="1361" height="764" alt="Captura de tela 2025-12-01 212829" src="https://github.com/user-attachments/assets/b6afd442-37ab-4209-9690-0e7e05ce95f1" />
+
+<img width="1358" height="768" alt="Captura de tela 2025-12-01 212849" src="https://github.com/user-attachments/assets/3de0a435-64fd-4824-aabe-b21acc6f7d8a" />
+
 
 # Dashboard Importação, Exportação e balança comercial da Cadeia Produtiva (usinagem)
 
