@@ -59,13 +59,14 @@ https://drive.google.com/file/d/1CX-21PI59WqLfP5kft04LVBz6kYCfdBF/view?usp=drive
 
 <img width="1680" height="842" alt="Captura de tela 2025-11-20 005243" src="https://github.com/user-attachments/assets/def69302-54f0-42a6-932a-8eea5c6cfbe1" />
 
-> Gráfico mensal de importação e exportação.
+> Dados mensais do ano de 2024 da cidade de (SJC)
 
-<img width="1681" height="855" alt="Captura de tela 2025-11-20 005319" src="https://github.com/user-attachments/assets/bbf7f252-ce6f-4eb9-81e8-d2d5ec9ddecf" />
+<img width="1433" height="801" alt="Captura de tela 2025-12-01 004309" src="https://github.com/user-attachments/assets/582fce70-234a-4007-858c-45388cccdacf" />
 
 > Parceiros comerciais e produtos comercializados.
 
-<img width="1675" height="851" alt="Captura de tela 2025-11-20 005423" src="https://github.com/user-attachments/assets/9f9f341a-8718-45fc-9001-e5298b7e9721" />
+<img width="1426" height="794" alt="Captura de tela 2025-12-01 004212" src="https://github.com/user-attachments/assets/09a7e08d-ce3c-49da-b688-b9e561ee60a8" />
+
 
 > Vídeo do Dashboard.
 
