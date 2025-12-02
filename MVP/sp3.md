@@ -61,6 +61,10 @@
 
 ## 🚀 Próximos Passos
 
+- Entrega do relatório
+
+- Formatação da apresentação no padrão para a feira de soluções
+
 - Apresentação na Feira de soluções 
 
 ---
@@ -71,42 +75,31 @@
 
 https://docs.google.com/presentation/d/19VbSszKY70ZFRTxBJPLYaIOPXBlnvCRr/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
 
-## Vídeo apresentação 3° sprint
+## Gravação da apresentação 3° sprint
 
 https://drive.google.com/file/d/1CX-21PI59WqLfP5kft04LVBz6kYCfdBF/view?usp=drive_link
 
 ## Prints de tela
   
+> Dados importação, Exportação e balança Comercial
+
+<img width="1439" height="807" alt="Captura de tela 2025-12-01 004349" src="https://github.com/user-attachments/assets/8386362c-c256-4de1-bb79-98d0ae5d895c" />
+
+> Próxima imagem  KPI
+
+<img width="1434" height="802" alt="Captura de tela 2025-12-01 205914" src="https://github.com/user-attachments/assets/d1c2c835-ff78-4f39-b3ba-ad8a9d7c6c0d" />
+
+> Dados mensais do ano de 2024 da cidade de (SJC)
+
+<img width="1433" height="801" alt="Captura de tela 2025-12-01 004309" src="https://github.com/user-attachments/assets/12eb23ed-b666-4cff-a6e3-cfdf7a8aefac" />
+
+> Por último um top 10 parceiros comerciais e top 10 produtos comercializados
+
+<img width="1426" height="794" alt="Captura de tela 2025-12-01 004212" src="https://github.com/user-attachments/assets/ed428633-6f05-4395-86cc-635733a2da42" />
+
+## Gravações
   
->Dashboard inicial mostrando se a cadeia produtiva é importadora ou exportadora
-
-
-<img width="1687" height="848" alt="Captura de tela 2025-11-20 005115" src="https://github.com/user-attachments/assets/42e7ed6d-31e0-43c1-9a6f-49d1e360d096" />
-
-
->Próxima imagem  KPI
-
-
-<img width="1680" height="842" alt="Captura de tela 2025-11-20 005243" src="https://github.com/user-attachments/assets/3ffe60ea-85b5-4929-8ce4-a5a60a875e86" />
-
-
->Um gráfico de linha mensal
-
-
-<img width="1681" height="855" alt="Captura de tela 2025-11-20 005319" src="https://github.com/user-attachments/assets/7dda2353-cb11-4c11-8310-7c6bad951032" />
-
-
->Por último um top 10 parceiros comerciais
-
-
-<img width="1675" height="851" alt="Captura de tela 2025-11-20 005423" src="https://github.com/user-attachments/assets/a2d97942-7e79-47ff-985b-c9c5af88cbd4" />
-
-
-## Vídeo
-  
-  
->Um vidéo rápido demonstrando as funcionalidades do Dashboard
-
+> Um vidéo rápido demonstrando as funcionalidades do Dashboard
 
 https://github.com/user-attachments/assets/9cdcb9b5-353b-4e46-8561-6ffe033bb466
 
