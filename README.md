@@ -70,9 +70,16 @@ https://drive.google.com/file/d/1vgGE26VmNYBYqFFwclIxYYIQaAm9Enp6/view?usp=drive
 https://docs.google.com/presentation/d/19VbSszKY70ZFRTxBJPLYaIOPXBlnvCRr/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
 
 > Gravação da apresentação
-
+> 
 https://drive.google.com/file/d/1CX-21PI59WqLfP5kft04LVBz6kYCfdBF/view?usp=drive_link
 
+# Arquivo da apresentação da XII Feira de soluções
+
+> Slides da apresentação
+> 
+<img width="1361" height="767" alt="Captura de tela 2025-12-01 215020" src="https://github.com/user-attachments/assets/65ebf410-bae7-4da5-a420-cc19880263d3" />
+
+https://docs.google.com/presentation/d/1zZagHLJRknxx_62MwlJWFXwvnLXnVCxE/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
