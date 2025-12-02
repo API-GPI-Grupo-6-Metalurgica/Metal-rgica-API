@@ -40,7 +40,7 @@ https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive
 
 https://drive.google.com/file/d/1vgGE26VmNYBYqFFwclIxYYIQaAm9Enp6/view?usp=drive_link
 
-# Arquivo Power point 3° sprint e vídeo da apresentação
+# Arquivo Power point 3° sprint e gravação da apresentação
 
 > Apresentação
 
@@ -66,8 +66,7 @@ https://drive.google.com/file/d/1CX-21PI59WqLfP5kft04LVBz6kYCfdBF/view?usp=drive
 
 <img width="1426" height="794" alt="Captura de tela 2025-12-01 004212" src="https://github.com/user-attachments/assets/09a7e08d-ce3c-49da-b688-b9e561ee60a8" />
 
-
-> Vídeo do Dashboard.
+> Gravação do Dashboard.
 
 https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
 
