@@ -1,15 +1,38 @@
 # Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a "Proatividade, Autonomia, Colaboração e Entrega de Resultados dos Estudantes Envolvidos".
 
 # Aprendizado por Projeto Integrador (API) - Cadeia Produtiva Metalúrgica (usinagem)
+
 <img width="1371" height="776" alt="Screenshot_8" src="https://github.com/user-attachments/assets/84bd91cf-c44e-4e3b-bdf4-e732e1448b39" />
 
 # Desenvolvedores
+
 <img width="1359" height="764" alt="Screenshot_7" src="https://github.com/user-attachments/assets/43ab59c9-5837-42c5-82e8-ed7490865549" />
 
 # Backlog do produto
+
 <img width="1355" height="764" alt="Screenshot_9" src="https://github.com/user-attachments/assets/202fad6f-7dc7-4d20-86ec-3b14fea8c231" />
 
-# Dashboard Importação e Exportação da Cadeia Produtiva
+# Dashboard Importação, Exportação e balança comercial da Cadeia Produtiva (usinagem)
+
+> Dados importação, Exportação e balança Comercial
+
+<img width="1439" height="807" alt="Captura de tela 2025-12-01 004349" src="https://github.com/user-attachments/assets/d4244194-deec-4640-b400-edb7f8c5b2bf" />
+
+> Gráfico de KPI.
+
+<img width="1434" height="802" alt="Captura de tela 2025-12-01 205914" src="https://github.com/user-attachments/assets/99bd32d2-e79a-402a-97ce-6fac5f710a03" />
+
+> Dados mensais do ano de 2024 da cidade de (SJC)
+
+<img width="1433" height="801" alt="Captura de tela 2025-12-01 004309" src="https://github.com/user-attachments/assets/582fce70-234a-4007-858c-45388cccdacf" />
+
+> Parceiros comerciais e produtos comercializados.
+
+<img width="1426" height="794" alt="Captura de tela 2025-12-01 004212" src="https://github.com/user-attachments/assets/09a7e08d-ce3c-49da-b688-b9e561ee60a8" />
+
+> Gravação do Dashboard.
+
+https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
 
 # Arquivo Google Colab
 > Primeiro passo - Processo de aprendizagem.
@@ -49,28 +72,6 @@ https://docs.google.com/presentation/d/19VbSszKY70ZFRTxBJPLYaIOPXBlnvCRr/edit?us
 > Gravação da apresentação
 
 https://drive.google.com/file/d/1CX-21PI59WqLfP5kft04LVBz6kYCfdBF/view?usp=drive_link
-
-> Dados importação, Exportação e balança Comercial
-
-<img width="1439" height="807" alt="Captura de tela 2025-12-01 004349" src="https://github.com/user-attachments/assets/d4244194-deec-4640-b400-edb7f8c5b2bf" />
-
-> Gráfico de KPI.
-
-<img width="1434" height="802" alt="Captura de tela 2025-12-01 205914" src="https://github.com/user-attachments/assets/99bd32d2-e79a-402a-97ce-6fac5f710a03" />
-
-> Dados mensais do ano de 2024 da cidade de (SJC)
-
-<img width="1433" height="801" alt="Captura de tela 2025-12-01 004309" src="https://github.com/user-attachments/assets/582fce70-234a-4007-858c-45388cccdacf" />
-
-> Parceiros comerciais e produtos comercializados.
-
-<img width="1426" height="794" alt="Captura de tela 2025-12-01 004212" src="https://github.com/user-attachments/assets/09a7e08d-ce3c-49da-b688-b9e561ee60a8" />
-
-> Gravação do Dashboard.
-
-https://github.com/user-attachments/assets/3d0d2770-751f-4e12-8255-bb24acf0e7ed
-
-
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
