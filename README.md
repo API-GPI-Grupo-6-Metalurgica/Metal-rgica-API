@@ -50,14 +50,13 @@ https://docs.google.com/presentation/d/19VbSszKY70ZFRTxBJPLYaIOPXBlnvCRr/edit?us
 
 https://drive.google.com/file/d/1CX-21PI59WqLfP5kft04LVBz6kYCfdBF/view?usp=drive_link
 
+> Dados importação, Exportação e balança Comercial
 
-> Análise da cadeia produtiva metalúrgica (usinagem).
-
-<img width="1687" height="848" alt="Captura de tela 2025-11-20 005115" src="https://github.com/user-attachments/assets/93d49b35-a316-40df-8d2e-f9f40c1fbf94" />
+<img width="1439" height="807" alt="Captura de tela 2025-12-01 004349" src="https://github.com/user-attachments/assets/d4244194-deec-4640-b400-edb7f8c5b2bf" />
 
 > Gráfico de KPI.
 
-<img width="1680" height="842" alt="Captura de tela 2025-11-20 005243" src="https://github.com/user-attachments/assets/def69302-54f0-42a6-932a-8eea5c6cfbe1" />
+<img width="1434" height="802" alt="Captura de tela 2025-12-01 205914" src="https://github.com/user-attachments/assets/99bd32d2-e79a-402a-97ce-6fac5f710a03" />
 
 > Dados mensais do ano de 2024 da cidade de (SJC)
 
