@@ -4,18 +4,13 @@
 
 <img width="1358" height="762" alt="Captura de tela 2025-12-01 212714" src="https://github.com/user-attachments/assets/7ada3c66-cffb-4dcd-9a42-342f3b73be29" />
 
-
 # Desenvolvedores
 
 <img width="1360" height="765" alt="Captura de tela 2025-12-01 212815" src="https://github.com/user-attachments/assets/6fc517d9-4b97-4f54-a6c1-63c0dcc30edc" />
 
-
 # Backlog do produto
 
 <img width="1361" height="764" alt="Captura de tela 2025-12-01 212829" src="https://github.com/user-attachments/assets/b6afd442-37ab-4209-9690-0e7e05ce95f1" />
-
-<img width="1358" height="768" alt="Captura de tela 2025-12-01 212849" src="https://github.com/user-attachments/assets/3de0a435-64fd-4824-aabe-b21acc6f7d8a" />
-
 
 # Dashboard Importação, Exportação e balança comercial da Cadeia Produtiva (usinagem)
 
@@ -130,5 +125,5 @@ Este projeto tem como objetivo analisar e criar um Dashboard da "Cadeia Produtiv
 | 01                | 06/10/2025 |  Concluído| [MVP](MVP/sp1.md)  |
 | 02                | 10/11/2025 | Concluído | [MVP](MVP/sp2.md)  |
 | 03                | 24/11/2025 | Concluído  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 04/12/2025 | A fazer | [MVP](#)  |
+| Feira de Soluções | 04/12/2025 | A fazer | [MVP](MVP/sp4.md)|
 
