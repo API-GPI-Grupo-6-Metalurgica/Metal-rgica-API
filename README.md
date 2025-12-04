@@ -12,7 +12,7 @@
 
 <img width="1361" height="764" alt="Captura de tela 2025-12-01 212829" src="https://github.com/user-attachments/assets/b6afd442-37ab-4209-9690-0e7e05ce95f1" />
 
-# Gráfico Gantt
+# Gantt
 
 <img width="1839" height="740" alt="Captura de tela 2025-12-03 213622" src="https://github.com/user-attachments/assets/a49329de-e939-46d8-a15b-a19b75a93202" />
 
