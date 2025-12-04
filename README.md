@@ -76,10 +76,13 @@ https://drive.google.com/file/d/1CX-21PI59WqLfP5kft04LVBz6kYCfdBF/view?usp=drive
 # Arquivo da apresentação da XII Feira de soluções
 
 > Slides da apresentação
-> 
-<img width="1361" height="767" alt="Captura de tela 2025-12-01 215020" src="https://github.com/user-attachments/assets/65ebf410-bae7-4da5-a420-cc19880263d3" />
 
-https://docs.google.com/presentation/d/1zZagHLJRknxx_62MwlJWFXwvnLXnVCxE/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
+<img width="1919" height="1076" alt="Captura de tela 2025-12-03 210902" src="https://github.com/user-attachments/assets/69992510-9b41-40aa-97e3-f4c05b3d332a" />
+
+>Arquivo
+
+https://docs.google.com/presentation/d/1Dz1IkQm3XMs-6R-6sDdWP2njuduvp49p/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
+
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Equipe](#Equipe)
