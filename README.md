@@ -12,6 +12,11 @@
 
 <img width="1361" height="764" alt="Captura de tela 2025-12-01 212829" src="https://github.com/user-attachments/assets/b6afd442-37ab-4209-9690-0e7e05ce95f1" />
 
+# Gráfico Gantt
+
+<img width="1839" height="740" alt="Captura de tela 2025-12-03 213622" src="https://github.com/user-attachments/assets/a49329de-e939-46d8-a15b-a19b75a93202" />
+
+
 # Dashboard Importação, Exportação e balança comercial da Cadeia Produtiva (usinagem)
 
 > Dados importação, Exportação e balança Comercial
@@ -70,7 +75,7 @@ https://drive.google.com/file/d/1vgGE26VmNYBYqFFwclIxYYIQaAm9Enp6/view?usp=drive
 https://docs.google.com/presentation/d/19VbSszKY70ZFRTxBJPLYaIOPXBlnvCRr/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
 
 > Gravação da apresentação
-> 
+
 https://drive.google.com/file/d/1CX-21PI59WqLfP5kft04LVBz6kYCfdBF/view?usp=drive_link
 
 # Arquivo da apresentação da XII Feira de soluções
