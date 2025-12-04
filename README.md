@@ -78,6 +78,14 @@ https://drive.google.com/file/d/1HefH3W592buE94sP21tCunExZTfiIpj0/view?usp=drive
 
 https://drive.google.com/file/d/1vgGE26VmNYBYqFFwclIxYYIQaAm9Enp6/view?usp=drive_link
 
+# Relatório
+<img width="558" height="785" alt="Captura de tela 2025-12-04 183223" src="https://github.com/user-attachments/assets/cd8cbfab-693a-4c2c-a30f-47c9893291f7" />
+
+> Arquivo
+
+https://docs.google.com/document/d/1HJqbCbkJadz6_sONCuSbQVRMANfOS-nH/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
+
+
 # Arquivo Power point 3° sprint e gravação da apresentação
 
 > Slides da apresentação
