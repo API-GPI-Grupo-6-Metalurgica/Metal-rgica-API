@@ -10,8 +10,7 @@
 
 # Desenvolvedores
 
-<img width="1918" height="1074" alt="Captura de tela 2025-12-04 011730" src="https://github.com/user-attachments/assets/6ef92931-fce8-4d81-a3c3-29d72f966421" />
-
+<img width="1358" height="764" alt="Captura de tela 2025-12-04 012139" src="https://github.com/user-attachments/assets/8778aaf4-68e7-4b77-91b1-b77b854889b4" />
 
 # Backlog do produto
 
