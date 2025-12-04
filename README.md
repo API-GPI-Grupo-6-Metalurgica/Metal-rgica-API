@@ -14,6 +14,8 @@
 
 # Gantt
 
+> Atividades realizadas pelos integrantes
+
 <img width="1839" height="740" alt="Captura de tela 2025-12-03 213622" src="https://github.com/user-attachments/assets/a49329de-e939-46d8-a15b-a19b75a93202" />
 
 
