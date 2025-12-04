@@ -23,7 +23,9 @@
 
 <img width="1839" height="739" alt="Captura de tela 2025-12-04 181758" src="https://github.com/user-attachments/assets/54e284ee-3493-40a1-9ad5-04f5d2d90abc" />
 
+> Arquivo
 
+https://docs.google.com/spreadsheets/d/1kJ1cwPZ4MR87zW-SLJPsg8rr4Vga_nxn/edit?usp=drive_link&ouid=116591570047581862527&rtpof=true&sd=true
 
 # Dashboard Importação, Exportação e balança comercial da Cadeia Produtiva (usinagem)
 
