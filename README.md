@@ -2,15 +2,21 @@
 
 # Aprendizado por Projeto Integrador (API) - Cadeia Produtiva Metalúrgica (usinagem)
 
-<img width="1358" height="762" alt="Captura de tela 2025-12-01 212714" src="https://github.com/user-attachments/assets/7ada3c66-cffb-4dcd-9a42-342f3b73be29" />
+<img width="1360" height="766" alt="Captura de tela 2025-12-04 012127" src="https://github.com/user-attachments/assets/10e058e0-6697-47ce-aa83-4c9e571d9918" />
+
+<img width="1360" height="764" alt="Captura de tela 2025-12-04 012156" src="https://github.com/user-attachments/assets/3be619c3-a8ff-49d4-971c-1172928392b0" />
+
+<img width="1360" height="766" alt="Captura de tela 2025-12-04 012209" src="https://github.com/user-attachments/assets/c2857d9e-1981-454d-b395-4b31070efd72" />
 
 # Desenvolvedores
 
-<img width="1360" height="765" alt="Captura de tela 2025-12-01 212815" src="https://github.com/user-attachments/assets/6fc517d9-4b97-4f54-a6c1-63c0dcc30edc" />
+<img width="1918" height="1074" alt="Captura de tela 2025-12-04 011730" src="https://github.com/user-attachments/assets/6ef92931-fce8-4d81-a3c3-29d72f966421" />
+
 
 # Backlog do produto
 
-<img width="1361" height="764" alt="Captura de tela 2025-12-01 212829" src="https://github.com/user-attachments/assets/b6afd442-37ab-4209-9690-0e7e05ce95f1" />
+<img width="1308" height="673" alt="Captura de tela 2025-12-04 012303" src="https://github.com/user-attachments/assets/fbdd1890-005c-4eb6-a964-e3bb7966e6cd" />
+
 
 # Gantt
 
