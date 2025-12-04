@@ -21,7 +21,8 @@
 
 > Atividades realizadas pelos integrantes
 
-<img width="1839" height="740" alt="Captura de tela 2025-12-03 213622" src="https://github.com/user-attachments/assets/a49329de-e939-46d8-a15b-a19b75a93202" />
+<img width="1839" height="739" alt="Captura de tela 2025-12-04 181758" src="https://github.com/user-attachments/assets/54e284ee-3493-40a1-9ad5-04f5d2d90abc" />
+
 
 
 # Dashboard Importação, Exportação e balança comercial da Cadeia Produtiva (usinagem)
